@@ -10,7 +10,7 @@ You can try the tool live here: **[Beverage Price Prediction](https://rakesh-pro
 
 ## 🎥 Presentation
 
-Watch the full project presentation here: **[Beverage Price Prediction Presentation]()**
+Watch the full project presentation here: **[Beverage Price Prediction Presentation](https://github.com/rakeshkapilavayi/Beverage-Price-Prediction/raw/main/Beverage-Price-Prediction.pdf)**
 
 ## 📊 MLflow Dashboard
 
@@ -35,14 +35,15 @@ Explore the live MLflow dashboard here: **[Beverage Price Prediction Dashboard](
 ```
 Beverage_Price_Prediction/
 │
-├── artifacts/                  # Serialized ML model
-│   └── model_data.joblib       # Trained model for price prediction
+├── artifacts/                    # Serialized ML model
+│   └── model_data.joblib         # Trained model for price prediction
 │
-├── LICENSE                     # Apache License 2.0
-├── README.md                   # This documentation
-├── main.py                     # Streamlit app with UI logic
-├── prediction_helper.py        # Preprocessing & prediction functions
-└── requirements.txt            # Python dependencies
+├── Beverage-Price-Prediction.pdf # PDF contain complete details of project
+├── LICENSE                       # Apache License 2.0
+├── README.md                     # This documentation
+├── main.py                       # Streamlit app with UI logic
+├── prediction_helper.py          # Preprocessing & prediction functions
+└── requirements.txt              # Python dependencies
 ```
 
 ---
@@ -169,18 +170,6 @@ scikit-learn>=1.3.0
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
@@ -193,6 +182,7 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 * GitHub: [@rakeshkapilavayi](https://github.com/rakeshkapilavayi)
 * Live App: [Beverage Price Predictor](https://rakesh-project-beverage-price-predictor.streamlit.app/)
+* PDF: [Project Details](https://github.com/rakeshkapilavayi/Beverage-Price-Prediction/raw/main/Beverage-Price-Prediction.pdf)
 
 ---
 
@@ -207,5 +197,6 @@ For questions, suggestions, or collaboration opportunities, feel free to reach o
 **Smart pricing for smarter decisions — instantly estimate beverage prices for any customer profile.**
 
 ⭐ Star this repo if you find it helpful!
+
 
 </div>
